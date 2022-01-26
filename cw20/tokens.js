@@ -674,6 +674,14 @@ module.exports = {
       icon: "https://marsprotocol.io/mars_logo_colored.svg",
       decimals: 6
       },
+    terra1y3d5qexmyac0fg53pfglh2pjk0664ymfvcq9mc: {
+      protocol: "Wormhole",
+      symbol: "whGTPS",
+      name: "Global Transaction Payment Solu",
+      token: "terra1y3d5qexmyac0fg53pfglh2pjk0664ymfvcq9mc",
+      icon: "https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/32x32coinlogo.png?ver=1640952410118",
+      decimals: 8
+      },
   testnet: {
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
       protocol: "LoTerra",
