@@ -656,7 +656,7 @@ module.exports = {
       symbol: "whGTPS",
       name: "Global Transaction Payment Solu",
       token: "terra1y3d5qexmyac0fg53pfglh2pjk0664ymfvcq9mc",
-      icon: "https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/32x32coinlogo.png?ver=1640952410118",
+      icon: "https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/100x100GTPS.png?ver=1643766099603",
       decimals: 8
     },
      terra1cpluvvuswx6fj0cx98ex6rpds3rjr024vq5eng: {
