@@ -674,6 +674,14 @@ module.exports = {
       icon: "https://marsprotocol.io/mars_logo_colored.svg",
       decimals: 6
     },
+     terra1lxvd2z4c3s0em49auyepax8hflzw20hp9hgcxy: {
+      protocol: "Wormhole",
+      symbol: "whGFI",
+      name: "GtpsFinance",
+      token: "terra1lxvd2z4c3s0em49auyepax8hflzw20hp9hgcxy",
+      icon: "https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/128X128GFI.png?ver=1644074121067",
+      decimals: 8
+    },
   },
   testnet: {
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
