@@ -16,6 +16,14 @@ module.exports = {
       name: "Secret",
       icon: "https://assets.terra.money/icon/svg/ibc/SCRT.svg"
     },
+    'A9EFEAA29C659F1E90F83A2D34DDA7C7AA5D9F83711C14FA0D13968621A8B51B': {
+      denom: "ibc/A9EFEAA29C659F1E90F83A2D34DDA7C7AA5D9F83711C14FA0D13968621A8B51B",
+      path: "transfer/channel-1",
+      base_denom: "uosmo",
+      symbol: "OSMO",
+      name: "Osmosis",
+      icon: "https://assets.terra.money/icon/svg/ibc/OSMO.svg"
+    },
   },
   testnet: {}
 }
